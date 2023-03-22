@@ -36,6 +36,5 @@ License information: Copyright (c) 2012-2022 Scott Chacon and others
 
 <p align="center">
 
-Eyes Default Position: <br/>
-<img src="https://imgur.com/r52nssK" height="80%" width="80%" alt="Eyes Default Position"/>
-<br />
+
+
